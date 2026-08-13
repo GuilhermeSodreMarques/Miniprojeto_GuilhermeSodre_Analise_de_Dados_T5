@@ -21,7 +21,7 @@ Arquivos do projeto:
 
 Como executar
 
-Opção 1 - Jupyter Notebook / VS Code
+No Jupyter Notebook / VS Code
 
 1 - Clone ou faça o download deste repositório.
 
